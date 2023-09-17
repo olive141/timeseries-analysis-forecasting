@@ -1,0 +1,8 @@
+matplotlib
+pandas
+xlrd
+statsmodels
+seasonal
+scikit-learn
+pmdarima
+torch
